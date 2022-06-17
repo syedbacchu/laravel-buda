@@ -1,0 +1,34 @@
+{
+    "name": "sdtech/laravel-buda",
+    "description": "A simple integration of buda api with laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sd bacchu",
+            "email": "bacchu.cse11@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sdtech\\LaravelBuda\\": "src/"
+        },
+        "files": [
+            "src/Service/BudaApiLaravelService.php"
+        ]
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sdtech\\LaravelBuda\\Providers\\BudaApiServiceProviders"
+            ]
+        }
+    }
+}
