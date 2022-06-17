@@ -24,6 +24,7 @@ The current features are :
 ## Requirements
 
 * [Laravel 5.5+](https://laravel.com/docs/installation)
+* [Php 7.2+](https://www.php.net/)
 
 ## Installation
 1. From your projects root folder in terminal run:
