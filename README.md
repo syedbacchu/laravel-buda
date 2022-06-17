@@ -30,7 +30,7 @@ The current features are :
 1. From your projects root folder in terminal run:
 
 ```bash
-    composer require 
+    composer require sdtech/laravel-buda
 ```
 2. Publish the packages views, config file, assets, and language files by running the following from your projects root folder:
 
