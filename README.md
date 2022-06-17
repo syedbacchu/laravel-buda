@@ -6,6 +6,7 @@ A simple integration of buda api with laravel
 [![Issues](https://img.shields.io/github/issues/syedbacchu/laravel-buda.svg?style=flat-square)](https://github.com/syedbacchu/laravel-buda)
 [![Stars](https://img.shields.io/github/stars/syedbacchu/laravel-buda.svg?style=social)](https://github.com/syedbacchu/laravel-buda)
 [![Stars](https://img.shields.io/github/forks/syedbacchu/laravel-buda?style=flat-square)](https://github.com/syedbacchu/laravel-buda)
+[![Total Downloads](https://img.shields.io/packagist/dt/sdtech/laravel-buda.svg?style=flat-square)](https://packagist.org/packages/sdtech/laravel-buda)
 
 - [About](#about)
 - [Requirements](#requirements)
